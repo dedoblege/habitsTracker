@@ -1,0 +1,23 @@
+html {
+  --primary-color: #00a08f;
+  --secondary-color: #124653;
+  --background-color-lightest: #ffffff;
+  --background-color-lighter: #e5e5e5;
+  --background-color: #aeaeb2;
+  --background-color-darker: #8e8e93;
+  --background-color-darkest: #2e2d2d;
+  --highlight-color: #ffd454;
+}
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
